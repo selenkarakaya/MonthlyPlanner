@@ -28,7 +28,7 @@ This project was developed as an introductory project to HTML, CSS, and JavaScri
 
 - HTML/CSS: For structuring and styling the app.
 - JavaScript (ES6+): Core language for building components and managing logic.
--This project uses only HTML, CSS, and vanilla JavaScript, making it lightweight and easy to modify.
+- This project uses only HTML, CSS, and vanilla JavaScript, making it lightweight and easy to modify.
 
 ## Demo 🔗
 
