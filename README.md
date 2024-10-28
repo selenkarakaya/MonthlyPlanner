@@ -17,7 +17,7 @@ This project was developed as an introductory project to HTML, CSS, and JavaScri
 - **Dynamic and Interactive UI**: Engaging and intuitive interface for smooth user experience.
 - **Easy to Use**: Perfect for beginners who want a straightforward way to plan their month.
 
-  ## Usage
+## Usage
 
 - Launch the Planner: Open the index.html file in your browser.
 - Add Details in Each Section: Fill out the lists for movies, books, travel destinations, monthly goals, and important days.
@@ -32,7 +32,7 @@ This project was developed as an introductory project to HTML, CSS, and JavaScri
 
 ## Demo 🔗
 
-You can check out a live demo of the Shopping List ([https://monthlyplanner.netlify.app/]).
+You can check out a live demo of the Monthly Planner ([https://monthlyplanner.netlify.app/]).
 
 ## Installation
 To set up the Monthly Planner on your local machine:
